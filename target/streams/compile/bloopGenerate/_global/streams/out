@@ -1,0 +1,4 @@
+[debug] [chpt1] Classpath dependencies List()
+[debug] [chpt1] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'chpt1' to '/home/pcdm/hann/DSinScala/chpt1/.bloop/chpt1.json'
+[success] Generated .bloop/chpt1.json
